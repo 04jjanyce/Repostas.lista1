@@ -17,7 +17,7 @@ public class Livro {
 	public String getAutor() {
 		return autor;
 	}
-	public String geteditora() {
+	public String getEditora() {
 		return editora;
 	}
 	public int getAnoPublicado() {
