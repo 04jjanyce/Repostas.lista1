@@ -29,7 +29,7 @@ public class Data {
 		this.ano = a;
 	}
 	
-	public String toString () {
+	public String imprimirData () {
 		return dia + "/"  + mes + "/" + ano;
 	}
 }
